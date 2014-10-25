@@ -10,4 +10,4 @@ This was one of my first small projects when I started learning how to program i
 To do
 ============
 
-Develop an non recursive version with multi-threading support.
+Develop an non-recursive version with multi-threading support.
